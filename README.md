@@ -7,4 +7,4 @@ Respondents by Country
 Programming languages currently known 
 Programming languages desired to learn
 
-Please see screenshots or download the .pdf file to view. (The .pdf will not display some charts if opened in GitHub)
+Please see screenshots in the file titled "Jupyter Notebook Stack Overflow Screenshots.pdf" or download the .pdf file titled "2020 Data Final Copy" to view. (The file "2020 Data Final Copy" will not display some charts if opened in GitHub)
